@@ -17,7 +17,7 @@ Use the package manager [npm](https://www.npmjs.com/get-npm) to install this bot
 
 ## Usage
 
-Modify the [config.json](../main/config.json) with your wallet address and private key.
+Modify the [config.json](../master/config.json) with your wallet address and private key.
 Optionally, change the harvestThreshold based on how often you want to dump rewards.
 slipTolerance is set to 1.0% and thresholds are in quantity of HOPE tokens
 ```json
